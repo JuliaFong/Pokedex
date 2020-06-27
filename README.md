@@ -1,6 +1,6 @@
 # Pokedex
 
-* Learning TypeScript by featuring first generation pokemon in pokedex!
+* Learn TypeScript by featuring first generation pokemon in pokedex!
 
 # Learning Goals
 
