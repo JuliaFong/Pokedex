@@ -13,6 +13,8 @@
 
 * TypeScript
 
+* Javascript
+
 * CSS
 
 * HTML

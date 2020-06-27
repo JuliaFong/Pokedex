@@ -44,3 +44,4 @@ const showPokemon = (pokemon: IPokemon): void => {
 };
 
 fetchData();
+
