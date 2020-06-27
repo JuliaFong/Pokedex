@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
 
 
 * {
@@ -9,8 +9,8 @@
 
 body {
     background: #333;
-    line-height: 1.5;
-    font-family: "Caveat", cursive;
+    line-height: 1.75;
+    font-family: Yellowtail;
 }
 
 main {
@@ -40,20 +40,20 @@ main > h1 {
     background: #444;
     color: lightyellow;
     padding: 1rem;
-    border-radius: 10px;
+    border-radius: 12px;
     border-top: 0.5px solid #cebf7b;
     text-align: center;
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.18), 0 3px 6px rgba(0, 0, 0, 0.23);
     position: relative;
     overflow: hidden;
     cursor: pointer;
-    transition: 0.3s ease-in-out all;
+    transition: 0.4s ease-in-out all;
 }
 
 .card--name {
     text-transform: capitalize;
     color: white;
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: 600;
 }
 
