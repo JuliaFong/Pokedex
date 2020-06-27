@@ -6,7 +6,7 @@
 
 * Build a Pokedex featuring first generation Pokemon up to number 100.
 
-* Learn the basics of TypeScript through creating this Pokedex. 
+* Learn the basics of TypeScript by creating this Pokedex. 
 
 
 # Technology and Markup Languages 
