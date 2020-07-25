@@ -1,6 +1,6 @@
 # Pokedex
 
-* Learn TypeScript by featuring first generation pokemon in pokedex!
+* Learn the first generation pokemon in pokedex!
 
 # Learning Goals
 
@@ -19,7 +19,7 @@
 
 * HTML
 
-# API Refernce 
+# API Reference 
 
 This project was built using [Pokemon API](https://pokeapi.co/).
 
